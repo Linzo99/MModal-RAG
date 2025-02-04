@@ -1,0 +1,5 @@
+pip install -Uq "unstructured[all-docs]" pillow lxml
+pip install llama-index
+pip install llama-index-vector-stores-qdrant
+pip install llama-index-embeddings-huggingface
+pip install llama-index-multi-modal-llms-gemini
